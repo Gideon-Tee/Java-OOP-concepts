@@ -5,5 +5,6 @@ public class Main_App {
         gideon.hasPaidFees();
         First_year_Student eugenia = new First_year_Student();
         eugenia.canCode("Eugenia");
+        eugenia.hasPaidFees();
     }
 }
